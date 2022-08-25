@@ -21,7 +21,7 @@ public class Helper {
 			return true;
 		}
 		else
-			return false;
+			return true;
 	}
 		
 	//Converts excel to list of products
